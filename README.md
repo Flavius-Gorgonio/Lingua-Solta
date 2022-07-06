@@ -8,8 +8,7 @@ Centro de Ensino Superior do Seridó \
 Departamento de Computação e Tecnologia \
 Bacharelado em Sistemas de Informação
 
-|| Disciplina DCT1106 - Programação ||
-
+Disciplina DCT1106 - Programação
 Developed by @flgorgonio | since Mar, 2020
 
 ## Escola de Idiomas Língua Solta
