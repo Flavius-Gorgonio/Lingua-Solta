@@ -1,11 +1,6 @@
 # Escola de Idiomas Língua Solta
 Projeto de Sistema de Gestão Escolar 
 
-= = = = = = = = = = = = = = = = = = = \
-= Disciplina DCT1106 -- Programação = \
-=   Em desenvolvimento desde 2020   = \
-= = = = = = = = = = = = = = = = = = =
-
 #
 
 Universidade Federal do Rio Grande do Norte \
@@ -13,7 +8,9 @@ Centro de Ensino Superior do Seridó \
 Departamento de Computação e Tecnologia \
 Bacharelado em Sistemas de Informação
 
-Developed by @flgorgonio - Out, 2021
+Disciplina DCT1106 -- Programação
+
+Developed by @flgorgonio | since Mar, 2020
 
 ## Escola de Idiomas Língua Solta
 
