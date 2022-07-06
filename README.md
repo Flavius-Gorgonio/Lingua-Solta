@@ -1,9 +1,10 @@
 # Escola de Idiomas Língua Solta
 Projeto de Sistema de Gestão Escolar 
 
-= = = = = Projeto  Exemplo = = = = = \
+==================================== \
 = Disciplina DCT1106 - Programação = \
-=  Em desenvolvimento  desde 2020  = \
+=  Em desenvolvimento desde 2020   =
+====================================
 
 #
 
